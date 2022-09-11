@@ -40,8 +40,8 @@ npx knex migrate:make 'table_name'  --knexfile ./db/knexfile.js
 
 References:
 
-https://knexjs.org
-https://vincit.github.io/objection.js
+https://knexjs.org <br />
+https://vincit.github.io/objection.js <br />
 https://www.graphile.org/postgraphile
 
 
