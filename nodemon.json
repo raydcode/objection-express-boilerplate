@@ -1,0 +1,6 @@
+{
+  "watch": ["src/", ".env", "./graphql"],
+  "env": {
+    "NODE_ENV": "staging"
+  }
+}
